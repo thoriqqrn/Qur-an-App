@@ -3,6 +3,9 @@
 A new Flutter project.
 
 ![image](https://github.com/thoriqqrn/Qur-an-App/assets/153405232/c10bf496-2ec2-42fb-8229-26a7c76e8c23)
+![image](https://github.com/thoriqqrn/Qur-an-App/assets/153405232/b0733d62-9cb0-4497-a7c4-005729d5f2ce)
+![image](https://github.com/thoriqqrn/Qur-an-App/assets/153405232/f1f5aa9e-1f9c-4a59-9b6e-c3359321db03)
+
 
 
 ## Getting Started
