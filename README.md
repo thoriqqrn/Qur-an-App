@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![image](https://github.com/thoriqqrn/Qur-an-App/assets/153405232/c10bf496-2ec2-42fb-8229-26a7c76e8c23)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
